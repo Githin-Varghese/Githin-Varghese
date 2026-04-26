@@ -26,7 +26,7 @@ I am a Software Engineer with over 4 years of experience specializing in buildin
 #### 🚢 [SMARTShip & AO Registry]
 Developed microservices to stream real-time vessel data and built applications for ship data analysis, significantly improving maritime decision-making and data entry efficiency.
 
-#### ⛈️ [Ocean Pattern Analysis & Weather Forecasting]
+#### ⛈️ [Ocean Pattern Analysis & Weather Forecasting](https://github.com/OPAWF)
 Processed satellite NetCDF data using Python and PySpark. Implemented Vector Auto-Regression (VAR) to enhance climate trigger prediction accuracy by ~25%.
 
 #### 🏠 [ResidInn - Society Management App]
