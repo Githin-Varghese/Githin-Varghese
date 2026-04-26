@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Software Engineer
 
-I am a Software Engineer with over 3 years of experience specializing in building scalable web applications and high-performance cloud solutions. Currently, I'm at **ZeroNorth** (formerly Alpha Ori Technologies), where I focus on maritime technology, real-time data streaming, and performance optimization.
+I am a Software Engineer with over 4 years of experience specializing in building scalable web applications and high-performance cloud solutions. Currently, I'm at **ZeroNorth** (formerly Alpha Ori Technologies), where I focus on maritime technology, real-time data streaming, and performance optimization.
 
 - 🔭 **I’m currently working on**: Enhancing microservices for real-time vessel data streaming and complex maritime calculations.
 - ⚡ **Key Achievement**: Optimized data retrieval by 50% and reduced system load times by 35% using Redis caching and CQL optimization.
