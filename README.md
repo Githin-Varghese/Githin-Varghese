@@ -29,7 +29,7 @@ Developed microservices to stream real-time vessel data and built applications f
 #### ⛈️ [Ocean Pattern Analysis & Weather Forecasting](https://github.com/OPAWF)
 Processed satellite NetCDF data using Python and PySpark. Implemented Vector Auto-Regression (VAR) to enhance climate trigger prediction accuracy by ~25%.
 
-#### 🏠 [ResidInn - Society Management App]
+#### 🏠 [ResidInn - Society Management App](https://github.com/KTU-Design-Project-2020-AGJ/ResidInn)
 A mobile application built with Flutter and Node.js for 100+ residents, featuring real-time communication, AgoraIO video integration, and a Dialogflow chatbot.
 
 ---
