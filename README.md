@@ -41,7 +41,7 @@ A mobile application built with Flutter and Node.js for 100+ residents, featurin
 ---
 
 ### 🤝 Connect with Me
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/githin-varghese27)
+- **LinkedIn**: [linkedin.com/in/githin-varghese27](https://www.linkedin.com/in/githin-varghese27)
 - **Email**: [githin.v.varghese@gmail.com](mailto:githin.v.varghese@gmail.com)
 - **Location**: Kochi, Kerala, India
 
